@@ -1,0 +1,12 @@
+----
+Exception Às 07/07/2021 23:17:06
+Classe: EDBClient
+Descrição: Insufficient memory for this operation.
+----
+Exception Às 07/07/2021 23:17:06
+Classe: EAccessViolation
+Descrição: Access violation at address 00409474 in module 'Foo.exe'. Read of address 00000000
+----
+Exception Às 07/07/2021 23:17:06
+Classe: EAccessViolation
+Descrição: Access violation at address 00000000 in module 'Foo.exe'. Read of address 00000000

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/07/07 19:13:04.518,=C:\Users\pcdev\Downloads\appmanutencao-master-Softplan\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/07 19:13:14.912,C:\Users\pcdev\Downloads\appmanutencao-master-Softplan\appmanutencao-master\src\Threads.pas=C:\Users\pcdev\Downloads\appmanutencao-master-Softplan\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/07/07 19:13:14.912,C:\Users\pcdev\Downloads\appmanutencao-master-Softplan\appmanutencao-master\src\Threads.dfm=C:\Users\pcdev\Downloads\appmanutencao-master-Softplan\appmanutencao-master\src\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
